@@ -1,0 +1,10 @@
+iniciando: configurando o ambiente virtual....abra o prompt de comando e navegue até o diretório da aplicação.
+
+[INSIRA PROMPT DE COMANDO]: py -m venv school
+[INSIRA PROMPT DE COMANDO]: school\Scripts\activate
+[INSIRA PROMPT DE COMANDO]: pip install flask
+[INSIRA PROMPT DE COMANDO]: set FLASK_APP=app.py
+[INSIRA PROMPT DE COMANDO]: flask run
+
+finalizando o ambiente virtual
+[INSIRA PROMPT DE COMANDO]: deactivate
